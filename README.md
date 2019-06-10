@@ -1,2 +1,4 @@
 # whale_shark
-AI_Platform
+AI(DL)_Platform
+Creator Jang Dong-Hoon
+20190610
